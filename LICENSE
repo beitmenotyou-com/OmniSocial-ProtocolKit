@@ -1,27 +1,4 @@
-"""MIT License
-
-Copyright (c) 2025 Circuitry Hub Insights Collective
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-"""
-
-license_md_explained = """# 📜 MIT License — Explained
+# 📜 MIT License — Explained
 
 This project is licensed under the **MIT License**, one of the most permissive and widely used open-source licenses.
 
@@ -32,45 +9,57 @@ This project is licensed under the **MIT License**, one of the most permissive a
 As a user of this software, you are free to:
 
 - **Use** it for any purpose — commercial, personal, nonprofit, etc.
-- **Copy** and redistribute it
-- **Modify** it however you like
-- **Distribute** your changes or original copies
-- **Include** it in proprietary or closed-source software
+- **Copy** and redistribute it as-is
+- **Modify** the source code to suit your needs
+- **Share** your changes with others
+- **Include** it in closed-source or proprietary software
 
-There are no restrictions on the types of projects that can use this software.
+There are **no restrictions** on what type of project this code can be used in.
 
 ---
 
 ## 🛠️ What You *Must* Do
 
-To comply with the MIT License, you must:
+To comply with the MIT License, you **must**:
 
-- **Include the license** in any copy of the software you distribute
-- **Preserve the copyright notice**
-  > “Copyright (c) 2025 Circuitry Hub Insights Collective”
+- Include the original **license text** (found in `LICENSE`) in any distribution
+- Retain the following **copyright notice**:
 
-That’s it — no other restrictions.
+
+This gives proper credit to the original creators and ensures transparency.
 
 ---
 
 ## 🛡 Warranty Disclaimer
 
-This software is provided **"as is"**, without warranty of any kind.  
-The Circuitry Hub Insights Collective is **not responsible** for any issues, damage, or liability that may arise from using or modifying this code.
+This software is provided **"as is"**, without any warranty or guarantees.
+
+> The Circuitry Hub Insights Collective takes **no responsibility** for:
+> - Bugs or errors in the code
+> - Any damage or loss caused by using the code
+> - Any issues from modified versions
+
+Use it at your own discretion.
 
 ---
 
-## 🤝 Why MIT?
+## 💡 Why MIT?
 
-The MIT License promotes innovation and openness by making it:
+The MIT License was chosen because it is:
 
-- Easy to use and understand
-- Friendly to contributors
-- Compatible with other open and commercial licenses
+- 🔓 **Permissive** — gives maximum freedom to use and adapt the code
+- 🌍 **Widely understood** — developers around the world recognize and trust it
+- 🤝 **Contribution-friendly** — encourages community involvement and innovation
 
-We chose it to encourage **widespread adoption, contribution, and remixing** — aligned with our values of decentralization, freedom, and sovereignty.
+It aligns with our mission to promote **decentralization, freedom tech, and self-sovereignty** through open collaboration.
 
 ---
 
-### — Circuitry Hub Insights Collective
-"""
+## 👥 Maintained By
+
+**Circuitry Hub Insights Collective**  
+A collective working to build open, federated, and censorship-resistant social infrastructure.
+
+---
+
+For more details, refer to the full legal license in [`LICENSE`](./LICENSE).
