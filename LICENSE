@@ -8,11 +8,11 @@ This project is licensed under the **MIT License**, one of the most popular and 
 
 You are free to:
 
-- **Use** the code for any purpose — commercial, personal, educational, or nonprofit
-- **Copy** and share the code
-- **Modify** the code to suit your needs
-- **Distribute** your modified versions
-- **Include** it in closed-source or proprietary software
+- **Use** the code for any purpose — commercial, personal, educational, or nonprofit  
+- **Copy** and share the code  
+- **Modify** the code to suit your needs  
+- **Distribute** your modified versions  
+- **Include** it in closed-source or proprietary software  
 
 There are **no restrictions** on how or where this software can be used.
 
@@ -22,44 +22,6 @@ There are **no restrictions** on how or where this software can be used.
 
 If you use this software (original or modified), you **must**:
 
-- Include the original **MIT license text** (see the `LICENSE` file)
+- Include the original **MIT license text** (see the `LICENSE` file)  
 - Keep the following copyright:
 
-
-That’s it — no copyleft, no forced contributions, no restrictions on usage.
-
----
-
-## ⚠️ Disclaimer of Warranty
-
-This software is provided **"as is"** with **no warranties** or guarantees.
-
-The Circuitry Hub Insights Collective is **not liable** for:
-
-- Bugs or vulnerabilities  
-- Damage caused by using the software  
-- Issues arising from modifications or forks
-
-Use at your own risk.
-
----
-
-## 💡 Why We Use MIT
-
-We chose the MIT License because it:
-
-- 🔓 Encourages **freedom and flexibility**  
-- 🌍 Is **globally recognized** and trusted  
-- 🤝 Welcomes **contributors and remixers**  
-- 🚀 Aligns with our mission of **freedom, decentralization, and user sovereignty**
-
----
-
-## 🛠 Maintained By
-
-**Circuitry Hub Insights Collective**  
-Dedicated to building open, federated, and censorship-resistant social platforms.
-
----
-
-For legal terms, refer to the full license in [`LICENSE`](./LICENSE).
