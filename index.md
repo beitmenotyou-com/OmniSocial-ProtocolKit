@@ -1,36 +1,50 @@
 ---
 title: OmniSocial Hub
+layout: default
 ---
 
-# Welcome to OmniSocial Hub
+# OmniSocial Hub
 
-**OmniSocial Hub** is an ambitious project to unify the decentralized social media ecosystem by bridging:
+**The future of federated social media – one identity, all protocols.**
+
+OmniSocial Hub is a unified, decentralized social platform that bridges:
 
 - **ActivityPub** (Mastodon, PeerTube, etc.)
 - **AT Protocol** (Bluesky)
 - **Nostr** (Relay-based, censorship-resistant)
 
-## What We're Building
+## Why OmniSocial?
 
-A Facebook-like platform — but federated, self-hosted, and sovereign.  
-You can interact with everyone, across networks, with a single identity.
-
-### Features
-
-- Unified feed from all 3 protocols
-- Self-sovereign identity (DIDs or domain-based)
-- Plugin-based server architecture
-- Web & mobile clients
-- Community governance, moderation, messaging, and more
-
-> This is a living idea. Follow our [updates](/updates/2025-03-25.md) as the project evolves.
-
-## Get Involved
-
-- Visit the [GitHub repo](https://github.com/YOUR_USERNAME/omnisocial-hub)
-- Contribute via [proposals](/proposals/)
-- Fork and build your own vision!
+Imagine a Facebook-like social experience, but:
+- **Decentralized** — You control your identity and data.
+- **Federated** — Talk to users across different networks.
+- **Self-sovereign** — Host it yourself or use a trusted instance.
+- **Collaborative** — Built with transparency and community input.
 
 ---
 
-MIT Licensed. Built with freedom in mind.
+## Project Vision
+
+We're building:
+
+- A **single identity** system based on DIDs or domain names  
+- A **multi-protocol content system** for sharing posts across the fediverse  
+- A **beautiful web/mobile app** experience that feels modern and intuitive  
+- A **developer-friendly gateway** to interact with ActivityPub, AT Protocol, and Nostr from one stack  
+
+> Read the full vision in [vision.md](./vision.md)
+
+---
+
+## Get Involved
+
+We're open to collaboration. Join us!
+
+- **Explore the [roadmap](./roadmap.md)**
+- **Read the [latest updates](./updates/2025-03-25.md)**
+- **Propose a [feature or integration](./proposals/bridges-and-services.md)**
+- **Open an issue or start a discussion**
+
+---
+
+MIT Licensed • Created by [beitmenotyou-com](https://github.com/beitmenotyou-com)
