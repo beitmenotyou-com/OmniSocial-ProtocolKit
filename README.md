@@ -32,9 +32,6 @@ Each protocol will be accessed through a native gateway service, all coordinated
 ## 🧱 Project Structure
 
 The repo is organized like this:
-## 🧱 Project Structure
-
-The repo is organized like this:
 
 ```txt
 omnisocial-hub/
