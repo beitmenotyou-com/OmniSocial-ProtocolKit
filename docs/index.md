@@ -5,7 +5,7 @@ layout: default
 
 # 🌐 OmniSocial Hub
 
-**OmniSocial Hub** is a federated protocol gateway that combines the best of ActivityPub, AT Protocol, Nostr, IndieWeb, Webfinger, and DIDs — into one powerful and extensible platform.
+**OmniSocial Hub** is a federated Protocol gateway combining the best ActivityPub, AT Protocol, Nostr, IndieWeb, Webfinger, and DIDs into one powerful and extensible platform.
 
 Built by the **Circuitry Hub Insights Collective**, it empowers developers to build decentralized social media that is censorship-resistant, self-sovereign, and interoperable across networks.
 
@@ -44,6 +44,6 @@ Built by the **Circuitry Hub Insights Collective**, it empowers developers to bu
 - [Node.js + TypeScript](./Node.js+TypeScript.md)
 - [Express API Gateway](./api-gateway.md)
 - [Modular Protocol support (ActivityPub, AT, Nostr)](./protocol-support.md)
-- GitHub Actions CI/CD
-- Docker / Vercel / Render
-- GitHub Pages docs + OpenAPI
+- [GitHub Actions CI/CD](./github-actions-ci-cd.md)
+- [Docker / Vercel / Render](./deployment-options.md)
+- [GitHub Pages docs + OpenAPI](./github-pages-and-openapi.md)
