@@ -11,7 +11,7 @@ If you discover a security issue in OmniSocial Hub:
    - Proof of concept (PoC)
    - Potential impact
 
-We will coordinate with affected parties before we begin and aim to fix critical issues within 72 hours.
+We will coordinate with affected parties before we begin.
 
 ---
 
