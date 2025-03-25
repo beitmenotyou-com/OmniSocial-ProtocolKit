@@ -32,6 +32,11 @@ Each protocol will be accessed through a native gateway service, all coordinated
 ## 🧱 Project Structure
 
 The repo is organized like this:
+## 🧱 Project Structure
+
+The repo is organized like this:
+
+```txt
 omnisocial-hub/
 ├── README.md            # Main project overview (you're reading it!)
 ├── index.md             # GitHub Pages homepage content
@@ -52,6 +57,7 @@ omnisocial-hub/
 │   └── ui-v1.png        # Early mockup of a possible web app layout
 
 ├── banner.png           # 🖼 Project banner for README and GitHub Pages
-├── avatar.png           # 🧷 Optional icon for GitHub profile/favicons
+├── avatar.png           # 🧷 Optional icon for GitHub profile / favicons
 └── _config.yml          # GitHub Pages theme and settings
+
 
