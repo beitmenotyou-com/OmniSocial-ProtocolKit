@@ -41,7 +41,7 @@ Built by the **Circuitry Hub Insights Collective**, it empowers developers to bu
 
 ## 🔧 Tech Stack
 
-- Node.js + TypeScript
+- [Node.js + TypeScript](./Node.js+TypeScript.md)
 - Express API Gateway
 - Modular protocol support (ActivityPub, AT, Nostr)
 - GitHub Actions CI/CD
