@@ -13,12 +13,11 @@ Built by the **Circuitry Hub Insights Collective**, it empowers developers to bu
 
 ## 📚 Documentation
 
-- [Getting Started](./build.md)
-- [Onboarding Guide](../ONBOARDING.md)
-- [API Reference (OpenAPI)](./api/openapi.yaml)
-- [Use Cases](./use-cases.md)
-- [Community Dashboard](./community.md)
-- [Video Walkthrough](./video.md)
+- [Getting Started](./docs/build.md)
+- [Onboarding Guide](../docs/ONBOARDING.md)
+- [API Reference (OpenAPI)](./docs/api/openapi.yaml)
+- [Use Cases](./docs/use-cases.md)
+- [Community Dashboard](./docs/community.md)
 
 ---
 
@@ -26,7 +25,7 @@ Built by the **Circuitry Hub Insights Collective**, it empowers developers to bu
 
 - [GitHub Discussions](https://github.com/beitmenotyou-com/omnisocial-hub/discussions)
 - [Submit a Proposal](https://github.com/beitmenotyou-com/omnisocial-hub/issues/new?template=proposal.md)
-- [Revolt Server](https://revolt.chat/invite/YOUR-SERVER-ID)
+- [Revolt Server](https://rvlt.gg/mgekZHF2)
 
 ---
 
