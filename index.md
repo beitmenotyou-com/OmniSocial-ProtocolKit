@@ -40,7 +40,6 @@ We're building:
 
 We’re open for collaboration. Join us!
 
-- **Explore the [roadmap](./roadmap.md)**
 - **Read the [latest updates](./updates/2025-03-25.md)**
 - **Propose a [feature or integration](./proposals/bridges-and-services.md)**
 - **Open an issue or start a discussion**
