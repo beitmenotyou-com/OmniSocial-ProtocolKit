@@ -1,0 +1,21 @@
+{
+  "on_start": {
+    "actions": [
+      {
+        "type": "pin",
+        "channel": "omnisocial-hub",
+        "message": "Welcome to the OmniSocial Hub project! Start with [README](https://github.com/beitmenotyou-com/omnisocial-hub), [Docs](https://beitmenotyou-com.github.io/omnisocial-hub/), and [Use Cases](https://beitmenotyou-com.github.io/omnisocial-hub/use-cases.html)"
+      },
+      {
+        "type": "pin",
+        "channel": "dev-updates",
+        "message": "Track all development updates here: https://github.com/beitmenotyou-com/omnisocial-hub/commits/main"
+      },
+      {
+        "type": "pin",
+        "channel": "feature-proposals",
+        "message": "Submit new proposals here: https://github.com/beitmenotyou-com/omnisocial-hub/issues/new?template=proposal.md"
+      }
+    ]
+  }
+}
