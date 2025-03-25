@@ -14,7 +14,7 @@ Built by the **Circuitry Hub Insights Collective**, it empowers developers to bu
 ## 📚 Documentation
 
 - [Getting Started](./build.md)
-- [Onboarding Guide](./docs/ONBOARDING.md)
+- [Onboarding Guide](./ONBOARDING.md)
 - [API Reference (OpenAPI)](./api/openapi.yaml)
 - [Use Cases](./use-cases.md)
 - [Community Dashboard](./community.md)
