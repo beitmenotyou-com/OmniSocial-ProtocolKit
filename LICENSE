@@ -23,8 +23,9 @@ There are **no restrictions** on what type of project this code can be used in.
 To comply with the MIT License, you **must**:
 
 - Include the original **license text** (found in `LICENSE`) in any distribution
-- Retain the following **copyright notice**:
+- Retain the following **copyright notice**
 
+    Copyright (c) 2025 Circuitry Hub Insights Collective
 
 This gives proper credit to the original creators and ensures transparency.
 
@@ -35,9 +36,9 @@ This gives proper credit to the original creators and ensures transparency.
 This software is provided **"as is"**, without any warranty or guarantees.
 
 > The Circuitry Hub Insights Collective takes **no responsibility** for:
-> - Bugs or errors in the code
-> - Any damage or loss caused by using the code
-> - Any issues from modified versions
+> - Bugs or errors in the code  
+> - Any damage or loss caused by using the code  
+> - Any issues from modified versions  
 
 Use it at your own discretion.
 
@@ -47,15 +48,15 @@ Use it at your own discretion.
 
 The MIT License was chosen because it is:
 
-- 🔓 **Permissive** — gives maximum freedom to use and adapt the code
-- 🌍 **Widely understood** — developers around the world recognize and trust it
+- 🔓 **Permissive** — gives maximum freedom to use and adapt the code  
+- 🌍 **Widely understood** — developers around the world recognize and trust it  
 - 🤝 **Contribution-friendly** — encourages community involvement and innovation
 
 It aligns with our mission to promote **decentralization, freedom tech, and self-sovereignty** through open collaboration.
 
 ---
 
-## 👥 Maintained By
+## 🧑‍🤝‍🧑 Maintained By
 
 **Circuitry Hub Insights Collective**  
 A collective working to build open, federated, and censorship-resistant social infrastructure.
