@@ -1,3 +1,3 @@
-# Proposal: Protocol Bridges
+# Bridges and Services Proposal
 
-Ideas for bridging ActivityPub, Nostr, and AT Protocol.
+Proposal content placeholder.

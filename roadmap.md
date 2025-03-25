@@ -1,6 +1,6 @@
 # Roadmap
 
 ## Phase 1
-- [x] Project concept
+- [x] Concept drafted
 ## Phase 2
 - [ ] Reference implementation
