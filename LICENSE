@@ -1,27 +1,65 @@
-# 📜 MIT License — Explained
+# 📜 MIT License — Human-Friendly Summary
 
-This project is licensed under the **MIT License**, one of the most permissive and widely used open-source licenses.
+This project is licensed under the **MIT License**, one of the most popular and permissive open-source licenses.
 
 ---
 
-## ✅ What You *Can* Do
+## ✅ What You Can Do
 
-As a user of this software, you are free to:
+You are free to:
 
-- **Use** it for any purpose — commercial, personal, nonprofit, etc.
-- **Copy** and redistribute it as-is
-- **Modify** the source code to suit your needs
-- **Share** your changes with others
+- **Use** the code for any purpose — commercial, personal, educational, or nonprofit
+- **Copy** and share the code
+- **Modify** the code to suit your needs
+- **Distribute** your modified versions
 - **Include** it in closed-source or proprietary software
 
-There are **no restrictions** on what type of project this code can be used in.
+There are **no restrictions** on how or where this software can be used.
 
 ---
 
-## 🛠️ What You *Must* Do
+## 📌 What You Must Do
 
-To comply with the MIT License, you **must**:
+If you use this software (original or modified), you **must**:
 
-- Include the original **license text** (found in `LICENSE`) in any distribution
-- Retain the following **copyright notice**
+- Include the original **MIT license text** (see the `LICENSE` file)
+- Keep the following copyright:
 
+
+That’s it — no copyleft, no forced contributions, no restrictions on usage.
+
+---
+
+## ⚠️ Disclaimer of Warranty
+
+This software is provided **"as is"** with **no warranties** or guarantees.
+
+The Circuitry Hub Insights Collective is **not liable** for:
+
+- Bugs or vulnerabilities
+- Damage caused by using the software
+- Issues arising from modifications or forks
+
+Use at your own risk.
+
+---
+
+## 💡 Why We Use MIT
+
+We chose the MIT License because it:
+
+- 🔓 Encourages **freedom and flexibility**
+- 🌍 Is **globally recognized** and trusted
+- 🤝 Welcomes **contributors and remixers**
+- 🚀 Aligns with our mission of **freedom, decentralization, and user sovereignty**
+
+---
+
+## 🛠 Maintained By
+
+**Circuitry Hub Insights Collective**  
+Dedicated to building open, federated, and censorship-resistant social platforms.
+
+---
+
+For legal terms, refer to the full license in [`LICENSE`](./LICENSE).
