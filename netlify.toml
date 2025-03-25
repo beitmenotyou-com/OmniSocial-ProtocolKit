@@ -1,11 +1,6 @@
 [build]
   publish = "docs"
-  command = "echo 'No build step needed'"
+  command = ""
 
 [context.production.environment]
-  NODE_VERSION = "18"
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+  JEKYLL_ENV = "production"

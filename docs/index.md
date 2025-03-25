@@ -5,45 +5,54 @@ layout: default
 
 # 🌐 OmniSocial Hub
 
-**OmniSocial Hub** is a federated Protocol gateway combining the best ActivityPub, AT Protocol, Nostr, IndieWeb, Webfinger, and DIDs into one powerful and extensible platform.
+**OmniSocial Hub** is a community-led, open-source project that unifies multiple decentralized social media protocols into a single gateway.  
+It is built by the **Circuitry Hub Insights Collective** to foster self-sovereign communication, federation, and interoperability between protocols like **ActivityPub**, **AT Protocol**, **Nostr**, **DIDs**, and more.
 
-Built by the **Circuitry Hub Insights Collective**, it empowers developers to build decentralized social media that is censorship-resistant, self-sovereign, and interoperable across networks.
-
----
-
-## 📚 Documentation
-
-- [Getting Started](./build.md)
-- [Onboarding Guide](./ONBOARDING.md)
-- [API Reference (OpenAPI)](./api/openapi.yaml)
-- [Use Cases](./use-cases.md)
-- [Community Dashboard](./community.md)
+> Think of it as a modular backend + documentation for building cross-protocol federated apps — kind of like a decentralized Facebook starter kit.
 
 ---
 
-## 💬 Community Engagement
+## ✨ What Can You Do With OmniSocial Hub?
 
-- [GitHub Discussions](https://github.com/beitmenotyou-com/omnisocial-hub/discussions)
-- [Submit a Proposal](https://github.com/beitmenotyou-com/omnisocial-hub/issues/new?template=proposal.md)
-- [Revolt Server](https://rvlt.gg/mgekZHF2)
-
----
-
-## 🚀 Deploy It
-
-- [Gitpod Dev Environment](https://gitpod.io/#https://github.com/beitmenotyou-com/omnisocial-hub)
-- [Docker Setup](../Dockerfile)
-- [Vercel](https://vercel.com/new/import?s=https://github.com/beitmenotyou-com/omnisocial-hub)
-- [Render](https://render.com/deploy?repo=https://github.com/beitmenotyou-com/omnisocial-hub)
-- [Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/beitmenotyou-com/omnisocial-hub)
+- Post once, publish to many protocols
+- Build bridges across the Fediverse, Nostr, and Bluesky
+- Launch your own federated social backend
+- Use it as a research sandbox for testing federation ideas
+- Contribute to protocol standards from the ground up
 
 ---
 
-## 🔧 Tech Stack
+## 📚 Project Docs
 
-- [Node.js + TypeScript](./Node.js+TypeScript.md)
-- [Express API Gateway](./api-gateway.md)
-- [Modular Protocol support (ActivityPub, AT, Nostr)](./protocol-support.md)
-- [GitHub Actions CI/CD](./github-actions-ci-cd.md)
-- [Docker / Vercel / Render](./deployment-options.md)
-- [GitHub Pages docs + OpenAPI](./github-pages-and-openapi.md)
+- [Getting Started](./getting-started.html)
+- [Tech Stack](./tech-stack.html)
+- [API Gateway](./api-gateway.html)
+- [Modular Protocols](./protocol-support.html)
+- [CI/CD Pipeline](./github-actions-ci-cd.html)
+- [Deployment Options](./deployment-options.html)
+- [Docs + OpenAPI](./github-pages-and-openapi.html)
+
+## 🧩 Proposals & Standards
+
+- [Submit a Proposal](./proposals.html)
+- [Accepted Proposals](./proposals-accepted.html)
+- [Supported Protocol Specs](./protocols.html)
+
+## 🤝 Community
+
+- [Hall of Builders](./hall-of-builders.html)
+- [Contributor Stats](./auto-contributors.html)
+- [Community Dashboard](./community.html)
+- [Video Walkthrough](./video.html)
+
+## 📦 Meta
+
+- [Vision](../VISION.md)
+- [Roadmap](../ROADMAP.md)
+- [Sample Contributions](../SAMPLE-CONTRIBUTIONS.md)
+- [Code of Conduct](../CODE_OF_CONDUCT.md)
+
+---
+
+Welcome to the federated future.  
+Built with freedom by the Circuitry Hub Insights Collective.

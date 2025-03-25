@@ -1,78 +1,74 @@
-# 🚀 Protocol Hub
+# 🌐 OmniSocial Hub
 
-A modular, multi-protocol gateway for federated social media, combining:
+![Build](https://img.shields.io/github/actions/workflow/status/beitmenotyou-com/omnisocial-hub/ci.yml?label=CI)
+![License](https://img.shields.io/github/license/beitmenotyou-com/omnisocial-hub)
+![GitHub issues](https://img.shields.io/github/issues/beitmenotyou-com/omnisocial-hub)
+![GitHub stars](https://img.shields.io/github/stars/beitmenotyou-com/omnisocial-hub)
+![Last Commit](https://img.shields.io/github/last-commit/beitmenotyou-com/omnisocial-hub)
 
-- **ActivityPub** (Fediverse: Mastodon, PeerTube, etc.)
-- **AT Protocol** (Bluesky)
-- **Nostr** (Relay-powered, censorship-resistant)
-- **Webfinger** (Identity discovery)
-- **Micropub + Webmention** (IndieWeb)
-- **DIDs** (Self-sovereign identity)
+OmniSocial Hub is a modular, protocol-agnostic framework for building **federated social media apps** — combining the power of **ActivityPub**, **AT Protocol**, **Nostr**, **Webfinger**, **DIDs**, and **IndieWeb** standards into one unified project.
 
-## 🧱 Architecture Overview
+> Think of it as a cross-protocol backend + proposal playground — kind of like a decentralized Facebook starter kit.
 
-![Protocol Architecture](./omnisocial-hub-architecture.png)
+---
 
-## 🛠 How to Get Started
+## ✨ Features
+
+- Protocol plugins (ActivityPub, ATProto, Nostr, Webfinger, DIDs)
+- Modular Express API gateway
+- TypeScript-based with full OpenAPI docs
+- Swagger UI frontend
+- GitHub Actions CI/CD + Docker deployment
+- Fully community-driven via proposals
+
+---
+
+## 📚 Documentation
+
+- [Getting Started](https://beitmenotyou-com.github.io/omnisocial-hub/getting-started.html)
+- [API Gateway](https://beitmenotyou-com.github.io/omnisocial-hub/api-gateway.html)
+- [Modular Protocol Support](https://beitmenotyou-com.github.io/omnisocial-hub/protocol-support.html)
+- [Swagger UI Viewer](https://beitmenotyou-com.github.io/omnisocial-hub/openapi.html)
+
+Full Docs: https://beitmenotyou-com.github.io/omnisocial-hub/
+
+---
+
+## 🤝 Community
+
+- [Submit a Proposal](https://github.com/beitmenotyou-com/omnisocial-hub/issues/new?template=proposal.md)
+- [Accepted Proposals](https://beitmenotyou-com.github.io/omnisocial-hub/proposals-accepted.html)
+- [Hall of Builders](https://beitmenotyou-com.github.io/omnisocial-hub/hall-of-builders.html)
+- [GitHub Discussions](https://github.com/beitmenotyou-com/omnisocial-hub/discussions)
+- [Join on Revolt](#)
+
+---
+
+## 🧪 Local Dev
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/omnisocial-hub.git
-cd omnisocial-hub
 npm install
 npm run dev
 ```
 
-## 📁 Directory Overview
+or use Docker:
 
-```
-src/
-├── routes/         # Individual protocol endpoints
-├── services/       # Identity, content, and federation helpers
-├── utils/          # Logger, error handlers, shared logic
-index.ts            # API entrypoint (Express)
+```bash
+docker-compose up --build
 ```
 
-## 🌐 API Endpoints
+---
 
-- `GET /.well-known/webfinger` — Webfinger resolver
-- `GET /activitypub` — ActivityPub test
-- `GET /atproto` — ATProto test
-- `GET /nostr` — Nostr stub
-- `GET /micropub` — Micropub placeholder
-- `GET /webmention` — Webmention placeholder
-- `GET /did/:id` — DID Document resolver
+## 🛠 Scripts
 
-## 📌 Status
+- `generate_contributors.py` – Auto-updates contributor list from GitHub API
+- `render-deploy.sh` – Trigger cloud deploy via Render
+- `github-upload.sh` – Init and push project to GitHub
 
-This is a **starter framework**. Contributions welcome!
+---
 
-## 🚀 Deploy This Project
+## 📦 License
 
-You can deploy Protocol Hub on your preferred platform with one click:
+MIT © Circuitry Hub Insights Collective
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/import?s=https://github.com/beitmenotyou-com/omnisocial-hub)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/beitmenotyou-com/omnisocial-hub)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/beitmenotyou-com/omnisocial-hub)
-
-
-## 🧪 One-Click Dev Environment
-> This project automatically starts in Gitpod with dev server on port 4000.
-
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/beitmenotyou-com/omnisocial-hub)
-
-## 🚀 Use This as a Template
-
-Start your own federated project using this starter framework.
-
-[Create a repo from this template](https://github.com/beitmenotyou-com/omnisocial-hub/generate)
-
-## 🌐 Live Demo (Coming Soon)
-
-We plan to host a public demo instance that showcases:
-- ActivityPub federation
-- Nostr relay connections
-- DID resolution
-- Webfinger lookup
-
-Want to deploy your own? Use the Dockerfile or connect your repo to [Render](https://render.com/).
+See [`LICENSE`](./LICENSE.md)

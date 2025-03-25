@@ -1,0 +1,44 @@
+- title: Home
+  url: index.html
+
+- title: Getting Started
+  url: getting-started.html
+
+- title: Tech Stack
+  url: tech-stack.html
+
+- title: API Gateway
+  url: api-gateway.html
+
+- title: Protocol Modules
+  url: protocol-support.html
+
+- title: CI/CD (GitHub Actions)
+  url: github-actions-ci-cd.html
+
+- title: Deployment Options
+  url: deployment-options.html
+
+- title: GitHub Pages + OpenAPI
+  url: github-pages-and-openapi.html
+
+- title: Protocol Directory
+  url: protocols.html
+
+- title: Community Dashboard
+  url: community.html
+
+- title: Video Walkthrough
+  url: video.html
+
+- title: Proposals
+  url: proposals.html
+
+- title: Accepted Proposals
+  url: proposals-accepted.html
+
+- title: Hall of Builders
+  url: hall-of-builders.html
+
+- title: Contributor Stats
+  url: auto-contributors.html
