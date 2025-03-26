@@ -34,6 +34,15 @@ It is built by the **Circuitry Hub Insights Collective** to foster self-sovereig
 - [Enhanced Testing Suite](./enhanced-testing-suite.html)
 - [News & Announcements](./community-news.html)
 
+### 📡 Protocol Documentation
+
+- [ActivityPub](./protocols/activitypub.md)
+- [AT Protocol](./protocols/atproto.md)
+- [Nostr](./protocols/nostr.md)
+- [Webfinger](./protocols/webfinger.md)
+- [DID Support](./protocols/dids.md)
+
+
 ### 🧪 Try It Out
 
 - [Demo Dashboard](./demo-dashboard.html)
