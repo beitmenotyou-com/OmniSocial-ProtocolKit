@@ -47,10 +47,10 @@ It is built by the **Circuitry Hub Insights Collective** to foster self-sovereig
 
 ## 📦 Meta
 
-- [Vision](../VISION.md)
-- [Roadmap](../ROADMAP.md)
-- [Sample Contributions](../SAMPLE-CONTRIBUTIONS.md)
-- [Code of Conduct](../CODE_OF_CONDUCT.md)
+- [Vision](./VISION.md)
+- [Roadmap](./ROADMAP.md)
+- [Sample Contributions](./SAMPLE-CONTRIBUTIONS.md)
+- [Code of Conduct](./CODE_OF_CONDUCT.md)
 
 ---
 
