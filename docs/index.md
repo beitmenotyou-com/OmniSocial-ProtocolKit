@@ -31,6 +31,7 @@ It is built by the **Circuitry Hub Insights Collective** to foster self-sovereig
 - [CI/CD Pipeline](./github-actions-ci-cd.html)
 - [Deployment Options](./deployment-options.html)
 - [Docs + OpenAPI](./github-pages-and-openapi.html)
+- [Enhanced Testing Suite](./enhanced-testing-suite.html)
 
 ## 🧩 Proposals & Standards
 
