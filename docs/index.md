@@ -28,6 +28,7 @@ It is built by the **Circuitry Hub Insights Collective** to foster self-sovereig
 - [Tech Stack](./tech-stack.html)
 - [API Gateway](./api-gateway.html)
 - [Modular Protocols](./protocol-support.html)
+- [CI/CD & Docker Setup](./devops/CI-CD-DOCKER-ACTIONS.md)
 - [CI/CD Pipeline](./github-actions-ci-cd.html)
 - [Deployment Options](./deployment-options.html)
 - [Docs + OpenAPI](./github-pages-and-openapi.html)
