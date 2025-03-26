@@ -32,6 +32,7 @@ It is built by the **Circuitry Hub Insights Collective** to foster self-sovereig
 - [Deployment Options](./deployment-options.html)
 - [Docs + OpenAPI](./github-pages-and-openapi.html)
 - [Enhanced Testing Suite](./enhanced-testing-suite.html)
+- [News & Announcements](./community-news.html)
 
 ### 🧪 Try It Out
 
