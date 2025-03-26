@@ -50,6 +50,7 @@ It is built by the **Circuitry Hub Insights Collective** to foster self-sovereig
 ### 🧪 Try It Out
 
 - [Demo Dashboard](./demo-dashboard.html)
+- [Examples Directory Guide](./examples/EXAMPLES-ACTIONS.md)
 
 ## 🧩 Proposals & Standards
 
