@@ -74,7 +74,7 @@ Link to related items in the repository:
 
 ## ✅ Checklist
 
-- [ ] I have reviewed [existing proposals](../proposals/)
+- [ ] I have reviewed [existing proposals](https://github.com/beitmenotyou-com/omnisocial-hub/tree/main/issues)
 - [ ] I have discussed this in [Discussions](https://github.com/beitmenotyou-com/omnisocial-hub/discussions)
 - [ ] I am willing to help implement or test this
 
