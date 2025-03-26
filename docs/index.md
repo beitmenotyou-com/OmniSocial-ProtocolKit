@@ -32,6 +32,7 @@ It is built by the **Circuitry Hub Insights Collective** to foster self-sovereig
 - [Deployment Options](./deployment-options.html)
 - [Docs + OpenAPI](./github-pages-and-openapi.html)
 - [API Gateway Implementation & Testing](./gateway/API-GATEWAY-ACTIONS.md)
+- [OpenAPI + Swagger UI Guide](./api/SWAGGER-OPENAPI-INTEGRATION.md)
 - [Enhanced Testing Suite](./enhanced-testing-suite.html)
 - [News & Announcements](./community-news.html)
 
