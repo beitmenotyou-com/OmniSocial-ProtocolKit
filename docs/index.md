@@ -62,6 +62,7 @@ It is built by the **Circuitry Hub Insights Collective** to foster self-sovereig
 - [Hall of Builders](./hall-of-builders.html)
 - [Contributor Stats](./auto-contributors.html)
 - [Community Dashboard](./community.html)
+- [Governance Guide](../GOVERNANCE.md)
 - [Video Walkthrough](./video.html)
 
 ## 📦 Meta
