@@ -50,7 +50,7 @@ It is built by the **Circuitry Hub Insights Collective** to foster self-sovereig
 - [Vision](./VISION.md)
 - [Roadmap](./ROADMAP.md)
 - [Sample Contributions](./SAMPLE-CONTRIBUTIONS.md)
-- [Code of Conduct](./CODE_OF_CONDUCT.md)
+- [Code of Conduct](./CODE-OF-CONDUCT.md)
 
 ---
 
