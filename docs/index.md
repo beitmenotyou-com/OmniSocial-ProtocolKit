@@ -33,6 +33,10 @@ It is built by the **Circuitry Hub Insights Collective** to foster self-sovereig
 - [Docs + OpenAPI](./github-pages-and-openapi.html)
 - [Enhanced Testing Suite](./enhanced-testing-suite.html)
 
+### 🧪 Try It Out
+
+- [Demo Dashboard](./demo-dashboard.html)
+
 ## 🧩 Proposals & Standards
 
 - [Submit a Proposal](./proposals.html)
