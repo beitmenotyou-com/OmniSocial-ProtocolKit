@@ -1,15 +1,56 @@
-name: CI
+name: 🔁 CI - Build and Test
 
-on: [push, pull_request]
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop]
 
 jobs:
   build:
+    name: 🧪 Lint & Test
     runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:14
+        env:
+          POSTGRES_DB: omnisocial
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+
+      redis:
+        image: redis:7
+        ports:
+          - 6379:6379
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: 🧾 Checkout code
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
-      - run: npm install
-      - run: npm run build
-      - run: npm test
+          node-version: 20
+          cache: "pnpm"
+
+      - name: 📦 Install dependencies
+        run: |
+          corepack enable
+          pnpm install
+
+      - name: 🧹 Lint
+        run: pnpm lint
+
+      - name: 🧪 Run Tests
+        run: pnpm test
+
+      - name: 📦 Build
+        run: pnpm build
