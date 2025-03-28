@@ -29,7 +29,6 @@ OmniSocial Hub is a **community-led, open-source framework** that unifies decent
 - [Hall of Builders](community/hall-of-builders.md)
 - [Contributor Stats](community/stats.md)
 - [Community Dashboard](community/dashboard.md)
-- [Video Walkthrough](community/video-walkthrough.md)
 
 ## 🧭 Meta
 - [Vision](meta/vision.md)
