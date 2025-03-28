@@ -48,7 +48,7 @@ Stay up-to-date with development and community updates:
 ## 🌐 Get Involved
 Contribute, discuss, and shape the future:
 - [GitHub Repo](https://github.com/beitmenotyou-com/omnisocial-hub)
-- [Revolt Server](https://rvlt.gg/vxTxbvth)
+- [Revolt Server](https://rvlt.gg/qXM1AJ5G)
 - [GitHub Discussions](https://github.com/beitmenotyou-com/omnisocial-hub/discussions)
 
 ---
