@@ -1,6 +1,6 @@
 # 🔍 Webfinger Support
 
-OmniSocial Hub includes Webfinger support for user discovery via identifiers like `@user@domain`.
+OmniSocial ProtocolKit includes Webfinger support for user discovery via identifiers like `@user@domain`.
 
 ## 📌 Purpose
 
@@ -14,4 +14,4 @@ Resolve federated user handles into profile metadata.
 ## 🔄 Integration Notes
 
 - Required for ActivityPub federation
-- Parses resource to find actor or DID
+- Parses the resource to find the actor or DID
