@@ -1,1 +1,0 @@
-// PluginManager to register/init/start/stop plugins
