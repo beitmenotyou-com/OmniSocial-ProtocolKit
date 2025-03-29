@@ -1,6 +1,6 @@
-# 📚 OmniSocial Hub Documentation
+# 📚 OmniSocial ProtocolKit Documentation
 
-Welcome to the OmniSocial Hub docs site — the all-in-one platform for building cross-protocol federated social apps.
+Welcome to the OmniSocial ProtocolKit docs site — the all-in-one platform for building cross-protocol federated social apps.
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to the OmniSocial Hub docs site — the all-in-one platform for building
 - [Quickstart Guide](./getting-started.md)
 - [Tech Stack Overview](./tech/stack.md)
 - [API Gateway](./api/api-gateway.md)
-- [Examples Directory](https://github.com/beitmenotyou-com/omnisocial-hub/tree/main/examples)
+- [Examples Directory](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/tree/main/examples)
 
 ---
 
