@@ -1,6 +1,6 @@
-# 📄 OmniSocial Hub Proposals
+# 📄 OmniSocial ProtocolKit Proposals
 
-Welcome to the OmniSocial Hub Proposals Directory.
+Welcome to the OmniSocial ProtocolKit Proposals Directory.
 
 Here you'll find community-submitted proposals that are either:
 - Under review
