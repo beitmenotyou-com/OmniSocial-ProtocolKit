@@ -22,7 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [v1.0.0] - YYYY-MM-DD
 
 ### Added
-- First public release of OmniSocial Hub
+- First public release of OmniSocial ProtocolKit
 - Multi-protocol Express API
 - GitHub Pages documentation
 - Proposal + governance framework
