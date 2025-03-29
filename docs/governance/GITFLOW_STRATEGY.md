@@ -1,6 +1,6 @@
 # 🌿 GitFlow Branching Strategy
 
-OmniSocial Hub follows the **GitFlow** branching strategy to ensure consistent, scalable, and collaborative development practices.
+OmniSocial ProtocolKit follows the **GitFlow** branching strategy to ensure consistent, scalable, and collaborative development practices.
 
 ---
 
