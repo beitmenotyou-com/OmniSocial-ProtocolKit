@@ -1,13 +1,13 @@
 # 📢 News & Announcements
 
-Stay up to date with important announcements, feature rollouts, roadmap changes, blog posts, and events from the OmniSocial Hub community.
+Stay up to date with important announcements, feature rollouts, roadmap changes, blog posts, and events from the OmniSocial ProtocolKit community.
 
 ---
 
 ## 🗓️ Latest Highlights
 
 ### ✅ March 2025 — Initial Launch!
-- OmniSocial Hub is live 🎉
+- OmniSocial ProtocolKit is live 🎉
 - Includes: ActivityPub, AT Protocol, Nostr bridges
 - Auto-syncing GitHub Wiki + Contributor Dashboard
 - Public release of [Launch Blog Post](./announcement.html)
