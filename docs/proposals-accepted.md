@@ -11,7 +11,7 @@ These proposals help shape the evolving federated architecture of OmniSocial Hub
 - **Matrix Support Stub**
   - Add `src/routes/matrix.ts`
   - Accept Matrix Federation and Room metadata
-  - [Proposal #12](https://github.com/beitmenotyou-com/omnisocial-hub/issues/12)
+  - [Proposal #12](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/issues/12)
 
 - **RSS-to-ActivityPub Bridge**
   - Convert external RSS feeds into ActivityPub updates
@@ -42,9 +42,9 @@ These proposals help shape the evolving federated architecture of OmniSocial Hub
 
 ---
 
-To suggest your own proposal, visit the [Proposals Template](https://github.com/beitmenotyou-com/omnisocial-hub/issues/new?template=proposal.md)
+To suggest your own proposal, visit the [Proposals Template](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/issues/new?template=proposal.md)
 
-For discussion, join us on [Revolt](https://revolt.chat/invite/YOUR-SERVER-ID)
+For discussion, join us on [Revolt](https://revolt.chat/invite/5DnMjCx8)
 
 ---
 ## 🏷️ Proposal Status Badges
