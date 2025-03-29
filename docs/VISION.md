@@ -1,6 +1,6 @@
 # 🌍 Vision
 
-OmniSocial Hub is a starting point — not a finished platform. It’s a shared space for protocol convergence, experimentation, and collective building of a truly federated web.
+OmniSocial ProtocolKit is a starting point, not a finished platform. It's a shared space for Protocol convergence, experimentation, and collective building of a federated web.
 
 ## 🔭 Long-Term Goals
 
