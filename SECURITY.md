@@ -9,7 +9,7 @@ Thank you for helping to secure OmniSocial ProtocolKit! We take security serious
 If you discover a security issue or vulnerability:
 
 1. **Do not** open a public GitHub issue.
-2. Email the core maintainers directly: **security@circuitryhub.org**
+2. Email the core maintainers directly: **contact@circuitryhubinsights.online**
 3. Include:
    - A description of the issue
    - Steps to reproduce
