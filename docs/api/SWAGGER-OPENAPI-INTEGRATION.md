@@ -1,6 +1,6 @@
 # 📘 OpenAPI + Swagger UI Integration Guide
 
-This guide explains how to document the OmniSocial Hub API using OpenAPI and how to serve it with Swagger UI for interactive exploration.
+This guide explains how to document the OmniSocial ProtocolKit API using OpenAPI and how to serve it with Swagger UI for interactive exploration.
 
 ---
 
@@ -8,7 +8,7 @@ This guide explains how to document the OmniSocial Hub API using OpenAPI and how
 
 - Generate OpenAPI 3.0 specification for all API endpoints
 - Provide interactive Swagger UI at `/api-docs`
-- Support protocol bridge modularity (ActivityPub, AT, Nostr)
+- Support Protocol bridge modularity (ActivityPub, AT, Nostr)
 
 ---
 
@@ -32,7 +32,7 @@ import swaggerJSDoc from 'swagger-jsdoc';
 const swaggerDefinition = {
   openapi: '3.0.0',
   info: {
-    title: 'OmniSocial Hub API',
+    title: 'OmniSocial ProtocolKit API',
     version: '0.1.0',
     description: 'Federated protocol API for ActivityPub, AT Protocol, Nostr and more.'
   },
