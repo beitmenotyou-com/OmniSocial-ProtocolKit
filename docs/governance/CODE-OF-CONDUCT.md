@@ -1,6 +1,6 @@
 # 🌈 Code of Conduct
 
-We are committed to creating a welcoming, inclusive, and safe space for everyone involved in the OmniSocial Hub project.
+We are committed to creating a welcoming, inclusive, and safe space for everyone involved in the OmniSocial ProtocolKit project.
 
 ---
 
@@ -25,7 +25,7 @@ In the interest of fostering an open and welcoming environment, we as contributo
 
 ## ✅ Our Standards
 
-Examples of behavior that contributes to a positive environment:
+Examples of behavior that contribute to a positive environment:
 
 - Using welcoming and inclusive language
 - Being respectful of differing viewpoints and experiences
@@ -37,19 +37,19 @@ Examples of unacceptable behavior:
 - The use of sexualized language or imagery
 - Trolling, insulting/derogatory comments, personal or political attacks
 - Public or private harassment
-- Publishing others’ private information (e.g., real names, addresses)
+- Publishing others' private information (e.g., real names, addresses)
 
 ---
 
 ## 👮 Enforcement
 
-Project maintainers are responsible for clarifying standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+Project maintainers are responsible for clarifying acceptable behavior standards and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the maintainers at:
 
 📧 **contact@circuitryhubinsights.online**
 
-All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
+All complaints will be reviewed and investigated, and a response deemed necessary and appropriate to the circumstances will be provided.
 
 ---
 
