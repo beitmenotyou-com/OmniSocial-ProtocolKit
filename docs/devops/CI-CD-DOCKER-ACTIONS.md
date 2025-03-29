@@ -1,6 +1,6 @@
 # 🔁 CI/CD Pipelines & Docker Compose Setup
 
-This document outlines the setup and configuration needed to enable automatic testing, building, and deployment of the OmniSocial Hub project using GitHub Actions and Docker Compose.
+This document outlines the setup and configuration needed to enable automatic testing, building, and deployment of the OmniSocial ProtocolKit project using GitHub Actions and Docker Compose.
 
 ---
 
