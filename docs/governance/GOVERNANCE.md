@@ -1,13 +1,13 @@
-# 🏛 OmniSocial Hub Project Governance
+# 🏛 OmniSocial ProtocolKit Project Governance
 
-Welcome to the OmniSocial Hub governance guide. This document outlines how decisions are made, how contributions are evaluated, and how the community participates in shaping the future of the project.
+Welcome to the OmniSocial ProtocolKit governance guide. This document outlines how decisions are made, how contributions are evaluated, and how the community participates in shaping the project's future.
 
 ---
 
 ## 🧭 Guiding Principles
 
 - **Openness**: All discussions, proposals, and changes are public.
-- **Federation First**: Prioritize interoperability and protocol alignment.
+- **Federation First**: Prioritize Interoperability and Protocol alignment.
 - **Community Sovereignty**: No single person or entity has unilateral control.
 - **Consent & Consensus**: Aim for agreement via discussion before votes.
 
@@ -48,7 +48,7 @@ Welcome to the OmniSocial Hub governance guide. This document outlines how decis
 ### Governance Changes
 
 1. Suggested via GitHub Discussions.
-2. Proposal must clearly state the change.
+2. The proposal must clearly state the change.
 3. Requires **community vote** + **2 Maintainer approvals**.
 
 ---
@@ -71,14 +71,14 @@ We use GitHub Discussions for:
 - RFC proposal vetting
 - Feedback from users and devs
 
-👉 [Go to Discussions](https://github.com/beitmenotyou-com/omnisocial-hub/discussions)
+👉 [Go to Discussions](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/discussions)
 
 ---
 
 ## 📌 Maintainer Rotation
 
 - Maintainers rotate every 6 months via community nomination
-- You can nominate via proposal or GitHub Discussion thread
+- You can nominate via a proposal or a GitHub Discussion thread
 
 ---
 
@@ -91,5 +91,5 @@ We use GitHub Discussions for:
 
 ---
 
-Help us make OmniSocial Hub open, modular, and governed by the community it serves.
+Help us make OmniSocial ProtocolKit open, modular, and governed by the community it serves.
 
