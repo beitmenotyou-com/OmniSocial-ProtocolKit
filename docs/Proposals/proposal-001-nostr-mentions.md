@@ -42,7 +42,7 @@ Could lead to support for emoji reactions, reposts, and quotes across protocols.
 ## 🔗 Related
 
 - [NIP-01](https://github.com/nostr-protocol/nips/blob/master/01.md)
-- [GitHub Issue #42](https://github.com/beitmenotyou-com/omnisocial-hub/issues/42)
+- [GitHub Issue #42](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/issues/42)
 
 ## ✅ Checklist
 
