@@ -10,11 +10,11 @@ Allow users to publish and follow photo feeds using ActivityStreams objects and 
 
 ## 3. DID + Webfinger Login System
 
-Use decentralized identifiers (DIDs) and Webfinger for identity resolution. Let users log in with their own domain or self-hosted identity.
+Use decentralized identifiers (DIDs) and Webfinger for identity resolution. Let users log in with their domain or self-hosted identity.
 
 ## 4. Micropub IndieBlog Engine
 
-Post blog updates using IndieWeb’s Micropub protocol. Users can control their own content and syndicate to Fediverse or Nostr.
+Post blog updates using IndieWeb's Micropub Protocol. Users can control their content and syndicate to Fediverse or Nostr.
 
 ## 5. Cross-Protocol Community Space
 
