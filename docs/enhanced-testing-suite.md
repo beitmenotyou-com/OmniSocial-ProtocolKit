@@ -1,12 +1,12 @@
 # 🧪 Enhanced Testing Suite
 
-A robust testing suite ensures that OmniSocial Hub is stable, reliable, and safe for federation.
+A robust testing suite ensures that OmniSocial ProtocolKit is stable, reliable, and safe for federation.
 
 ---
 
 ## ✅ Goals
 
-- Unit tests for each protocol module (ActivityPub, AT Protocol, Nostr)
+- Unit tests for each Protocol module (ActivityPub, AT Protocol, Nostr)
 - Integration tests for API Gateway endpoints
 - Test coverage reporting integrated with GitHub Actions
 - Continuous feedback on code quality and test coverage
