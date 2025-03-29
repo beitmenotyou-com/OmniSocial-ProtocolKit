@@ -1,6 +1,6 @@
 # 📢 News & Announcements
 
-Stay up to date with important announcements, feature rollouts, roadmap changes, blog posts, and events from the OmniSocial ProtocolKit community.
+Stay updated with important announcements, feature rollouts, roadmap changes, blog posts, and events from the OmniSocial ProtocolKit community.
 
 ---
 
@@ -13,12 +13,12 @@ Stay up to date with important announcements, feature rollouts, roadmap changes,
 - Public release of [Launch Blog Post](./announcement.html)
 
 ### 🧪 April 2025 — Demo Dashboard
-- Static dashboard showing federated post views now available
+- Static dashboard showing federated post views is now available
 - Linked from homepage and [Demo Interface](./demo-dashboard.html)
 
 ### 🧠 May 2025 — Community Proposal Round 1
-- First round of community-driven protocol and UI proposals
-- Submit yours using the [Proposal Template](https://github.com/beitmenotyou-com/omnisocial-hub/issues/new?template=proposal.md)
+- First round of community-driven Protocol and UI proposals
+- Submit yours using the [Proposal Template](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/issues/new?template=proposal.md)
 
 ---
 
@@ -40,11 +40,11 @@ Stay up to date with important announcements, feature rollouts, roadmap changes,
 
 ## 📣 Stay Connected
 
-- 💬 Join our [Discussions](https://github.com/beitmenotyou-com/omnisocial-hub/discussions)
+- 💬 Join our [Discussions](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/discussions)
 - 🗳️ Vote on accepted [Proposals](./proposals-accepted/)
 - 🧑‍🤝‍🧑 Add yourself to the [Hall of Builders](./hall-of-builders.md)
 - 📬 Subscribe to the [weekly digest](./weekly-digest.html)
 
 ---
 
-Help us build the fediverse’s bridge — one post, vote, and proposal at a time.
+Help us build the fediverse's bridge — one post, vote, and proposal at a time.
