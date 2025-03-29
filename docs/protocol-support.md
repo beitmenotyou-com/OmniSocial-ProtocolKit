@@ -1,15 +1,15 @@
 # 🧩 Modular Protocol Support
 
-OmniSocial Hub is designed around the concept of **pluggable protocol modules**. Each federated protocol is isolated into its own route, logic, and service layer — making it easy to extend, maintain, and scale.
+OmniSocial ProtocolKit is designed around the concept of **pluggable Protocol modules**. Each federated Protocol is isolated into its route, logic, and service layer, making extending, maintaining, and scaling easy.
 
 ---
 
 ## 💡 Why Modular Design?
 
-- **Separation of Concerns:** Each protocol (e.g. ActivityPub, Nostr, AT Protocol) handles its own inputs and outputs.
+- **Separation of Concerns:** Each Protocol (e.g. ActivityPub, Nostr, AT Protocol) handles its inputs and outputs.
 - **Extendability:** Easily add new protocols or bridges by creating a new module.
 - **Reusability:** Common logic (like identity resolution or storage) is shared across protocols.
-- **Developer Friendly:** Focus on the protocol you care about without breaking others.
+- **Developer Friendly:** Focus on the Protocol you care about without breaking others.
 
 ---
 
@@ -43,7 +43,7 @@ src/
 │   └── ...
 ```
 
-Each file in `routes/` maps to a protocol-specific API handler. Each file in `services/` contains the logic and structure behind the interaction.
+Each file in `routes/` maps to a protocol-specific API handler, and each file in `services/` contains the logic and structure behind the interaction.
 
 ---
 
