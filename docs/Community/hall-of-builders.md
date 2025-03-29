@@ -1,8 +1,8 @@
 # 🛠️ Hall of Builders
 
-These are the individuals, organizations, and contributors helping shape the federated future through OmniSocial Hub.
+These are the individuals, organizations, and contributors helping shape the federated future through OmniSocial ProtocolKit.
 
-We recognize everyone — from code commits to proposals, community involvement to protocol advocacy.
+We recognize everyone, from code commits to proposals, community involvement to Protocol advocacy.
 
 ---
 
@@ -37,7 +37,7 @@ These contributors support development through:
 - Research and link curation
 
 To join the wall:
-- [Open a Proposal](https://github.com/beitmenotyou-com/omnisocial-hub/issues/new?template=proposal.md)
+- [Open a Proposal](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/issues/new?template=proposal.md)
 - Or contribute via PR and include `Add to Hall of Builders` in your commit/message
 
 ---
