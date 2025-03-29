@@ -1,13 +1,8 @@
----
-layout: default
-title: OmniSocial Hub
----
+# OmniSocial ProtocolKit 🚀
 
-# OmniSocial Hub 🚀
+OmniSocial Hub is a **community-led, open-source framework** that unifies decentralized social media protocols like **ActivityPub**, **AT Protocol**, **Nostr**, **Webfinger**, **DIDs**, and **Lightning Network** into one powerful modular backend.
 
-OmniSocial Hub is a **community-led, open-source framework** that unifies decentralized social media protocols like **ActivityPub**, **AT Protocol**, **Nostr**, **Webfinger**, and **DIDs** into one powerful modular backend. 
-
-> _Build cross-protocol social apps, test federation ideas, contribute to the future of decentralized communication._
+> _Build cross-protocol social apps, test federation ideas, leverage micropayments, and contribute to the future of decentralized communication._
 
 ---
 
@@ -16,6 +11,7 @@ OmniSocial Hub is a **community-led, open-source framework** that unifies decent
 - [Tech Stack](docs/tech-stack.md)
 - [API Gateway](docs/api-gateway.md)
 - [Modular Protocols](docs/modular-protocols.md)
+- [Lightning Network Integration](docs/lightning-integration.md)
 - [CI/CD Pipeline](docs/ci-cd.md)
 - [Deployment Options](docs/deployment.md)
 - [Docs + OpenAPI](docs/docs-openapi.md)
@@ -24,6 +20,14 @@ OmniSocial Hub is a **community-led, open-source framework** that unifies decent
 - [Submit a Proposal](proposals/submit.md)
 - [Accepted Proposals](proposals/accepted.md)
 - [Supported Protocol Specs](proposals/supported-protocols.md)
+
+## ⚡️ Lightning Network
+- [Lightning Setup Guide](lightning/setup.md)
+- [Microtransactions & Spam Protection](lightning/microtransactions.md)
+- [Pay-to-View & Pay-to-DM](lightning/paywalls.md)
+- [User Monetization Settings](lightning/user-settings.md)
+- [Invoice Checking & Automation](lightning/invoice-checking.md)
+- [Docker & Deployment](lightning/docker-deployment.md)
 
 ## 🌱 Community
 - [Hall of Builders](community/hall-of-builders.md)
@@ -49,6 +53,12 @@ Stay up-to-date with development and community updates:
 Contribute, discuss, and shape the future:
 - [GitHub Repo](https://github.com/beitmenotyou-com/omnisocial-hub)
 - [Revolt Server](https://rvlt.gg/qXM1AJ5G)
+- [GitHub Discussions](https://github.com/beitmenotyou-com/omnisocial-hub/discussions)
+
+---
+
+> _Built with passion by the [Circuitry Hub Insights Collective](https://beitmenotyou-com.github.io)._
+
 - [GitHub Discussions](https://github.com/beitmenotyou-com/omnisocial-hub/discussions)
 
 ---
