@@ -99,8 +99,8 @@ You can deploy to Vercel, Render, or Netlify using the deploy buttons in the REA
 
 ## 🙌 Need Help?
 
-Open a [Discussion](https://github.com/YOUR_USERNAME/omnisocial-hub/discussions)  
-Submit [Issues](https://github.com/YOUR_USERNAME/omnisocial-hub/issues)  
+Open a [Discussion](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/discussions)  
+Submit [Issues](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/issues)  
 Or check out [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 —
