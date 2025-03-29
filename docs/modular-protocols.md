@@ -1,6 +1,6 @@
 # 🔌 Modular Protocol Support
 
-OmniSocial Hub is designed as a **pluggable protocol-agnostic system**. Each protocol is isolated as its own module under `/src/protocols/`, following a shared interface, enabling seamless interoperability and expansion.
+OmniSocial ProtocolKit is designed as a **pluggable protocol-agnostic system**. Each Protocol is isolated as its module under `/src/protocols/`, following a shared interface, enabling seamless Interoperability and expansion.
 
 ---
 
@@ -9,7 +9,7 @@ OmniSocial Hub is designed as a **pluggable protocol-agnostic system**. Each pro
 ```
 /src/protocols/
 ├── activitypub/   # W3C AP & AS2 support
-├── atproto/       # Bluesky’s AT Protocol
+├── atproto/       # Bluesky's AT Protocol
 ├── nostr/         # Event relay pub/sub system
 ├── webfinger/     # Identifier resolution
 ├── did/           # DID resolution (did:web, did:key)
@@ -66,7 +66,7 @@ Shared interfaces in `/protocols/common/` ensure all modules remain pluggable.
 ## 📢 Real-World Examples
 - Create a post: routed to Nostr, ATProto & ActivityPub simultaneously
 - Fetch a social graph: merged across AT and AP instances
-- Follow user: generates correct activity or relay for that protocol
+- Follow user: generates correct activity or relay for that Protocol
 
 ---
 
