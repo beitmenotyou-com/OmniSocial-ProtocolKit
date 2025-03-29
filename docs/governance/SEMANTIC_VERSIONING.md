@@ -1,6 +1,6 @@
 # 📦 Semantic Versioning & Releases
 
-OmniSocial Hub follows [Semantic Versioning 2.0.0](https://semver.org/) to provide clarity and consistency across versions.
+OmniSocial ProtocolKit follows [Semantic Versioning 2.0.0](https://semver.org/) to provide clarity and consistency across versions.
 
 ---
 
@@ -60,7 +60,7 @@ on:
 
 ## 📁 Where to Track Releases
 
-- View all official versions: https://github.com/beitmenotyou-com/omnisocial-hub/releases
+- View all official versions: https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/releases
 - Add changelogs to: `/docs/releases/CHANGELOG.md`
 
 ---
