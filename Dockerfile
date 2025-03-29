@@ -1,0 +1,1 @@
+# Dockerfile for OmniSocial server setup
