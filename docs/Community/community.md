@@ -1,6 +1,6 @@
-# 🧑‍💻 OmniSocial Hub Community Dashboard
+# 🧑‍💻 OmniSocial ProtocolKit Community Dashboard
 
-Welcome to the community HQ for **OmniSocial Hub**, built by the Circuitry Hub Insights Collective.
+Welcome to the community HQ for **OmniSocial ProtocolKit**, built by the Circuitry Hub Insights Collective.
 
 This page aggregates key resources, live tools, and real-time engagement spaces.
 
