@@ -6,10 +6,10 @@ Thank you for your interest in contributing! Protocol Hub is a collaborative eff
 
 ## 🧠 Ideas & Proposals
 
-If you have an idea or protocol integration proposal:
+If you have an idea or Protocol integration proposal:
 
 1. Fork the repository.
-2. Create a new markdown file in `proposals/` using the template.
+2. Use the template to Create a new markdown file in `proposals/`.
 3. Submit a Pull Request or open a Discussion.
 
 We also encourage using the GitHub Discussions tab for early-stage ideas.
