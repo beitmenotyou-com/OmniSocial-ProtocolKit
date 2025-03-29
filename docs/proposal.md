@@ -1,12 +1,12 @@
 # 📄 Proposal Template
 
-Use this template to submit new proposals for the OmniSocial Hub project — whether you're suggesting protocol support, new features, improvements, governance rules, or ideas for federation standards.
+Use this template to submit new proposals for the OmniSocial ProtocolKit project — whether you suggest Protocol support, new features, improvements, governance rules, or ideas for federation standards.
 
 ---
 
 ## 📝 Title
 
-Give your proposal a short and descriptive title.
+Could you give your proposal a short and descriptive title?
 
 ---
 
@@ -25,7 +25,7 @@ What problem does it solve, or what improvement does it make?
 
 ## 🧠 Background (Optional)
 
-Include links to prior discussions, similar projects, or related proposals.
+Could you include links to prior discussions, similar projects, or related proposals?
 
 ---
 
@@ -75,7 +75,7 @@ Link to related items in the repository:
 ## ✅ Checklist
 
 - [ ] I have reviewed [existing proposals](../proposals/)
-- [ ] I have discussed this in [Discussions](https://github.com/beitmenotyou-com/omnisocial-hub/discussions)
+- [ ] I have discussed this in [Discussions](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/discussions)
 - [ ] I am willing to help implement or test this
 
 ---
