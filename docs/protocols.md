@@ -1,6 +1,6 @@
 # 🧭 Hall of Protocols
 
-Explore the protocols you can build, bridge, or extend in OmniSocial Hub.
+Explore the protocols you can build, bridge, or extend in OmniSocial ProtocolKit.
 
 ## ActivityPub
 - [Spec](https://www.w3.org/TR/activitypub/)
