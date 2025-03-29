@@ -1,6 +1,6 @@
 # 👥 Contributors
 
-We thank everyone who participates in building OmniSocial ProtocolKit — from proposals and protocol code to docs and testing.
+We thank everyone who participates in building OmniSocial ProtocolKit — from proposals and Protocol code to docs and testing.
 
 ## 🛠️ Core Contributors
 Tracked in [docs/hall-of-builders.md](./docs/hall-of-builders.html)
