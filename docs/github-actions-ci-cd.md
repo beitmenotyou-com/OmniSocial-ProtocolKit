@@ -1,6 +1,6 @@
 # ⚙️ GitHub Actions: CI/CD Pipeline
 
-OmniSocial Hub includes a lightweight but powerful **CI/CD pipeline** powered by **GitHub Actions**. It helps ensure quality, consistency, and reliability across every contribution and deployment.
+OmniSocial ProtocolKit includes a lightweight but powerful **CI/CD pipeline** powered by **GitHub Actions**. It helps ensure quality, consistency, and reliability across every contribution and deployment.
 
 ---
 
