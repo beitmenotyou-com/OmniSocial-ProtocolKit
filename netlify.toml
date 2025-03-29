@@ -1,6 +1,0 @@
-[build]
-  publish = "docs"
-  command = ""
-
-[context.production.environment]
-  JEKYLL_ENV = "production"
