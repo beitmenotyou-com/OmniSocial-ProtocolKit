@@ -1,8 +1,8 @@
-# Getting Started with OmniSocial Hub
+# Getting Started with OmniSocial ProtocolKit
 
-Welcome to the **OmniSocial Hub**! This guide will help you set up the project, understand its structure, and start building or contributing.
+Welcome to the **OmniSocial ProtocolKit**! This guide will help you set up the project, understand its structure, and start building or contributing.
 
-> **Note:** OmniSocial Hub is a modular, protocol-agnostic framework designed to integrate multiple decentralized social media protocols (like ActivityPub, AT Protocol, Nostr) via a unified API Gateway. Built by the Circuitry Hub Insights Collective.
+> **Note:** OmniSocial ProtocolKit is a modular, protocol-agnostic framework designed to integrate multiple decentralized social media protocols (like ActivityPub, AT Protocol, Nostr) via a unified API Gateway. Built by the Circuitry Hub Insights Collective.
 
 ---
 
