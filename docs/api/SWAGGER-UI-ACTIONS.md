@@ -1,6 +1,6 @@
 # 🌐 Swagger UI Setup: API Explorer Implementation
 
-This guide provides action items and implementation steps for adding Swagger UI to the OmniSocial Hub to create an interactive API explorer.
+This guide provides action items and implementation steps for adding Swagger UI to the OmniSocial ProtocolKit to create an interactive API explorer.
 
 ---
 
@@ -34,7 +34,7 @@ import swaggerJSDoc from 'swagger-jsdoc';
 const swaggerDefinition = {
   openapi: '3.0.0',
   info: {
-    title: 'OmniSocial Hub API',
+    title: 'OmniSocial ProtocolKit API',
     version: '1.0.0',
     description: 'Unified API for ActivityPub, AT Protocol, and Nostr.'
   },
