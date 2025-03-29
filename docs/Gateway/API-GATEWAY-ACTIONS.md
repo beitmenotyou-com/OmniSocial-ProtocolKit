@@ -1,12 +1,12 @@
 # 🚦 API Gateway: Implementation & Testing Plan
 
-This document outlines the current implementation requirements and testing roadmap for the OmniSocial Hub's modular API Gateway.
+This document outlines the implementation requirements and testing roadmap for the OmniSocial ProtocolKit's modular API Gateway.
 
 ---
 
 ## 🧠 Purpose
 
-The API Gateway acts as the unified entry point for handling all inbound and outbound protocol traffic.
+The API Gateway is the unified entry point for handling all inbound and outbound Protocol traffic.
 
 - Routes protocol-specific requests to plugins (ActivityPub, AT, Nostr)
 - Normalizes input and output formats
@@ -19,7 +19,7 @@ The API Gateway acts as the unified entry point for handling all inbound and out
 
 ### ✅ Modular Design
 
-- Each protocol must register routes independently
+- Each Protocol must register routes independently
 - Routes should mount under:
   - `/ap/` for ActivityPub
   - `/at/` for AT Protocol
