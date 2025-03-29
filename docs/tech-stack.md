@@ -1,6 +1,6 @@
-# 🛠️ OmniSocial Hub Tech Stack
+# 🛠️ OmniSocial ProtocolKit Tech Stack
 
-OmniSocial Hub combines modern backend tooling, decentralized identity standards, and federated protocols to deliver a scalable, flexible, and developer-friendly framework.
+OmniSocial ProtocolKit combines modern backend tooling, decentralized identity standards, and federated protocols to deliver a scalable, flexible, and developer-friendly framework.
 
 ---
 
@@ -20,7 +20,7 @@ OmniSocial Hub combines modern backend tooling, decentralized identity standards
 
 ## 🌐 Protocol Support
 
-OmniSocial Hub provides protocol modules to federate content across multiple decentralized social protocols:
+OmniSocial ProtocolKit provides protocol modules to federate content across multiple decentralized social protocols:
 
 | Protocol      | Module              | Description |
 |---------------|---------------------|-------------|
