@@ -1,6 +1,6 @@
-# 🧰 OmniSocial Hub Tech Stack
+# 🧰 OmniSocial ProtocolKit Tech Stack
 
-This project is built using a modern, extensible, and federated-ready stack. Below is a breakdown of the major components and technologies involved.
+This project uses a modern, extensible, and federated-ready stack. Below is a breakdown of the major components and technologies involved.
 
 ---
 
@@ -47,7 +47,7 @@ This project is built using a modern, extensible, and federated-ready stack. Bel
 ## 🔐 Identity & Modularity
 
 - DID-based universal identity system
-- Modular route handling per protocol
+- Modular route handling per Protocol
 - File-based service layers (e.g., nostr.ts, activitypub.ts)
 
 ---
