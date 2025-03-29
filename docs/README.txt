@@ -1,4 +1,4 @@
-OmniSocial Hub — GitHub Pages Docs Site
+OmniSocial ProtocolKit — GitHub Pages Docs Site
 
 This archive includes:
 - All GitHub Pages content (`/docs`)
