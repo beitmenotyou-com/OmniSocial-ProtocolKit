@@ -1,6 +1,6 @@
 # 🏛 OmniSocial ProtocolKit Project Governance
 
-Welcome to the OmniSocial ProtocolKit governance guide. This document outlines how decisions are made, how contributions are evaluated, and how the community participates in shaping the project's future.
+Welcome to the OmniSocial ProtocolKit governance guide. This document outlines how decisions are made, how contributions are evaluated, and how the community shapes the project's future.
 
 ---
 
@@ -91,5 +91,5 @@ We use GitHub Discussions for:
 
 ---
 
-Help us make OmniSocial ProtocolKit open, modular, and governed by the community it serves.
+Please help us make OmniSocial ProtocolKit open, modular, and governed by the community it serves.
 
