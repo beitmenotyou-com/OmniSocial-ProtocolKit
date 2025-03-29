@@ -1,6 +1,6 @@
 # 📘 GitHub Pages + OpenAPI Documentation
 
-OmniSocial Hub uses **GitHub Pages** for its user-friendly documentation site and **OpenAPI** for developer-focused API reference.
+OmniSocial ProtocolKit uses **GitHub Pages** for its user-friendly documentation site and **OpenAPI** for developer-focused API reference.
 
 Together, they make this project approachable for contributors, users, and builders.
 
@@ -38,7 +38,7 @@ plugins:
 https://<your-username>.github.io/<repo-name>/
 ```
 
-For OmniSocial Hub:
+For OmniSocial ProtocolKit:
 
 ```
 https://beitmenotyou-com.github.io/omnisocial-hub/
@@ -48,7 +48,7 @@ https://beitmenotyou-com.github.io/omnisocial-hub/
 
 ## 🔍 OpenAPI Spec
 
-OmniSocial Hub includes an API schema at:
+OmniSocial ProtocolKit includes an API schema at:
 
 ```
 docs/api/openapi.yaml
