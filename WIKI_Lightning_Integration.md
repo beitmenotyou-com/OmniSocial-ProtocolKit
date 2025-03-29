@@ -1,1 +1,0 @@
-## Full documentation for Lightning Network integration
