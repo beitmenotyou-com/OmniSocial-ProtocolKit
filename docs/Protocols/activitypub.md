@@ -1,6 +1,6 @@
 # 🌐 ActivityPub Plugin
 
-The ActivityPub plugin allows OmniSocial Hub to federate with platforms like Mastodon, PeerTube, and Lemmy using the W3C-standardized ActivityPub protocol.
+The ActivityPub plugin allows OmniSocial ProtocolKit to federate with platforms like Mastodon, PeerTube, and Lemmy using the W3C-standardized ActivityPub Protocol.
 
 ## 📌 Purpose
 
