@@ -4,7 +4,7 @@ DID (Decentralized Identifier) support allows cross-protocol identity resolution
 
 ## 📌 Purpose
 
-Support self-sovereign identity compatible with W3C DID spec and AT Protocol.
+Support self-sovereign identity compatible with the W3C DID spec and AT Protocol.
 
 ## 🛠 Usage
 
