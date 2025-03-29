@@ -1,6 +1,6 @@
-# 🚀 Getting Started with OmniSocial Hub
+# 🚀 Getting Started with OmniSocial ProtocolKit
 
-Welcome to **OmniSocial Hub** — an open-source, protocol-agnostic backend that integrates ActivityPub, AT Protocol, Nostr, and more into a single modular system for building federated social experiences.
+Welcome to **OmniSocial ProtocolKit** — an open-source, protocol-agnostic backend that integrates ActivityPub, AT Protocol, Nostr, and more into a single modular system for building federated social experiences.
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to **OmniSocial Hub** — an open-source, protocol-agnostic backend that
 
 ```bash
 # Clone the repository
-git clone https://github.com/beitmenotyou-com/omnisocial-hub.git
+git clone https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit.git
 cd omnisocial-hub
 
 # Install dependencies
@@ -64,17 +64,17 @@ tests/              # Jest/TypeScript test files
 ## ✅ First-Time Contributor?
 
 1. Read [`DEVELOPER-ONBOARDING.md`](./DEVELOPER-ONBOARDING.md)
-2. Submit your ideas using the [Proposal Template](https://github.com/beitmenotyou-com/omnisocial-hub/issues/new?template=proposal.md)
-3. Join the [Discussions Tab](https://github.com/beitmenotyou-com/omnisocial-hub/discussions)
+2. Submit your ideas using the [Proposal Template](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/issues/new?template=proposal.md)
+3. Join the [Discussions Tab](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/discussions)
 4. Add yourself to the [Hall of Builders](docs/hall-of-builders.md)
 
 ---
 
 ## 📚 Docs & Community
 
-- [📘 Full Docs Site](https://beitmenotyou-com.github.io/omnisocial-hub)
-- [📖 GitHub Wiki](https://github.com/beitmenotyou-com/omnisocial-hub/wiki)
+- [📘 Full Docs Site](https://beitmenotyou-com.github.io/OmniSocial-ProtocolKit)
+- [📖 GitHub Wiki](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/wiki)
 - [💬 Community Support](./SUPPORT.md)
 - [🏁 Launch Blog Post](docs/announcement.md)
 
-Let’s build the federated future — together.
+Let's build the federated future — together.
