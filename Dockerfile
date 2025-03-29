@@ -1,9 +1,1 @@
-# OmniSocial Hub - Dockerfile
-FROM node:18
-
-WORKDIR /app
-COPY . .
-
-RUN npm install
-EXPOSE 4000
-CMD ["npm", "run", "dev"]
+# Dockerfile for OmniSocial server setup
