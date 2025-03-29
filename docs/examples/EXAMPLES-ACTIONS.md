@@ -1,6 +1,6 @@
-# 🧪 OmniSocial Hub Examples Directory
+# 🧪 OmniSocial ProtocolKit Examples Directory
 
-This document outlines the plan to add an `examples/` directory containing sample apps and minimal implementations to demonstrate OmniSocial Hub’s protocol bridging capabilities.
+This document outlines the plan to add an `examples/` directory containing sample apps and minimal implementations to demonstrate OmniSocial ProtocolKit's Protocol bridging capabilities.
 
 ---
 
@@ -57,7 +57,7 @@ React dashboard using OmniSocial API to visualize:
 Command-line bot that:
 
 - Connects to Nostr relays
-- Posts messages on interval
+- Posts messages at an interval
 - Listens for DMs with `/commands`
 
 ---
@@ -86,7 +86,7 @@ To add an example:
 
 1. Fork the repo
 2. Copy `examples/template/`
-3. Follow format, include clear `README.md`
+3. Follow the format, include a clear `README.md`
 4. Submit PR to `examples/` folder
 
 ---
