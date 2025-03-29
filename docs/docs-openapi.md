@@ -1,6 +1,6 @@
 # 📘 Documentation & OpenAPI Integration
 
-OmniSocial Hub provides robust developer documentation using OpenAPI and Swagger UI, enabling developers to interact with and explore the platform’s RESTful API in real time.
+OmniSocial ProtocolKit provides robust developer documentation using OpenAPI and Swagger UI, enabling developers to interact with and explore the platform’s RESTful API in real time.
 
 ---
 
@@ -20,7 +20,7 @@ This provides an interactive browser to:
 
 ## 🧬 OpenAPI Spec
 
-OmniSocial Hub uses an auto-generated **OpenAPI 3.1 spec** file located at:
+OmniSocial ProtocolKit uses an auto-generated **OpenAPI 3.1 spec** file located at:
 ```
 /src/gateway/openapi.yaml
 ```
@@ -83,4 +83,4 @@ components:
 - Add OpenAPI annotations to all gateway routes
 - Regenerate spec file on API changes
 
-> OmniSocial Hub aims for fully documented, self-explaining APIs by default.
+> OmniSocial ProtocolKit aims for fully documented, self-explaining APIs by default.
