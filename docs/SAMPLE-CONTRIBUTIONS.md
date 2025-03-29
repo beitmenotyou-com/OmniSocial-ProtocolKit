@@ -1,6 +1,6 @@
-# 🧩 Sample Contributions: OmniSocial Hub
+# 🧩 Sample Contributions: OmniSocial ProtocolKit
 
-Want to help build the federated future? Here are some real examples of how you can contribute to OmniSocial Hub — no matter your skill level.
+Want to help build the federated future? Here are some real examples of how you can contribute to OmniSocial ProtocolKit — no matter your skill level.
 
 ---
 
@@ -8,7 +8,7 @@ Want to help build the federated future? Here are some real examples of how you 
 
 ### ✳️ Build a New Bridge
 
-- Add a new bridge for a protocol (e.g., Matrix, XMPP, Solid)
+- Add a new bridge for a Protocol (e.g., Matrix, XMPP, Solid)
 - Follow the structure in `bridges/activitypub.ts` or `bridges/nostr.ts`
 - Implement:
   - Identity resolver
@@ -24,13 +24,13 @@ Want to help build the federated future? Here are some real examples of how you 
 
 - Fix typos, formatting, or add clarifications in `/docs/`
 - Add real examples to `getting-started.md`
-- Suggest better structure via PRs
+- Suggest a better structure via PRs
 
 ### ✴️ Build Frontend Components
 
 - UI for Proposal Dashboard
 - Swagger UI viewer customizer
-- Frontend to test protocol bridge endpoints
+- Frontend to test Protocol bridge endpoints
 
 ---
 
@@ -46,8 +46,8 @@ Want to help build the federated future? Here are some real examples of how you 
 
 ## 🎨 For Designers
 
-- Create SVG icons or logos for each supported protocol
-- Improve layout and theme of the GitHub Pages site
+- Create SVG icons or logos for each supported Protocol
+- Improve the layout and theme of the GitHub Pages site
 - Design templates for blog or announcements
 
 ---
@@ -75,8 +75,7 @@ Want to help build the federated future? Here are some real examples of how you 
 
 - [`DEVELOPER-ONBOARDING.md`](./DEVELOPER-ONBOARDING.md)
 - [`README.md`](./README.md)
-- [`ROADMAP.md`](./ROADMAP.md)
 - [`SUPPORT.md`](./SUPPORT.md)
 
 We welcome PRs, questions, and feedback from all skill levels —  
-**every contribution helps federate the future.**
+**Every contribution helps federate the future.**
