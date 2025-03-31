@@ -13,7 +13,7 @@ OmniSocial ProtocolKit is a modular, self-hostable toolkit for building decentra
 
 ## 📖 Table of Contents
 
-- [Getting Started](/getting-started)
+- [Getting Started](./getting-started)
 - [Core Concepts](#core-concepts)
 - [Installation Guide](#installation-guide)
 - [Architecture Overview](#architecture-overview)
