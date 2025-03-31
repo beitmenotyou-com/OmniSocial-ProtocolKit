@@ -1,5 +1,0 @@
-
-{
-  "version": 2,
-  "builds": [{ "src": "client/pages/index.js", "use": "@vercel/node" }]
-}
