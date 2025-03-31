@@ -1,1 +1,0 @@
-## Full documentation for using the multi-protocol plugin system
