@@ -1,87 +1,92 @@
-# Getting Started with OmniSocial ProtocolKit
+---
+layout: page
+title: Getting Started
+permalink: /getting-started/
+---
 
-Welcome to the **OmniSocial ProtocolKit**! This guide will help you set up the project, understand its structure, and start building or contributing.
+# 🚀 Getting Started with OmniSocial ProtocolKit
 
-> **Note:** OmniSocial ProtocolKit is a modular, protocol-agnostic framework designed to integrate multiple decentralized social media protocols (like ActivityPub, AT Protocol, Nostr) via a unified API Gateway. Built by the Circuitry Hub Insights Collective.
+Welcome to the OmniSocial ProtocolKit — your launchpad into building sovereign, federated, censorship-resistant social platforms. This guide walks you through everything you need to get up and running.
 
 ---
 
-## 🚀 Prerequisites
+## 🧩 What You’ll Need
 
-Before you begin, ensure you have the following installed:
-
-- **Node.js** `v20.x` or higher
-- **pnpm** `v8.x` (preferred over npm)
-- **PostgreSQL** `v14+` with `pgvector`
-- **Redis** `v7+` with JSON support
-- **Docker** & **Docker Compose** (for containerized development)
+- **Docker** (v20+ recommended)
+- **Git**
+- **Linux/macOS/WSL** (or a compatible server/VM)
+- Optional: **Domain Name** for self-hosting
 
 ---
 
-## 📦 Installation
+## ⚙️ Quickstart Installation
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/beitmenotyou-com/omnisocial-hub.git
-cd omnisocial-hub
-```
-
-### 2. Install Dependencies
-```bash
-pnpm install
-```
-
-### 3. Setup Environment
-```bash
-cp .env.example .env
-nano .env  # Set your local DB/Redis credentials
-```
-
-### 4. Database Migrations
-```bash
-pnpm migrate:up
-```
-
-### 5. Start the Development Server
-```bash
-pnpm dev
-```
-Visit: `http://localhost:3000/api-docs` to view Swagger UI.
-
----
-
-## 🐳 Docker Setup (Optional)
+Clone the repository and spin it up locally using Docker Compose:
 
 ```bash
-docker-compose -f docker-compose.dev.yml up --build
+git clone https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit.git
+cd OmniSocial-ProtocolKit
+docker-compose up
 ```
 
----
+This will:
+- Pull required containers
+- Set up protocol modules (ActivityPub, Nostr, etc.)
+- Start the Matrix messaging layer
+- Launch the Lightning Gateway
 
-## 📘 Explore the API
-Once the server is running, explore all available routes using Swagger UI:
-```url
-http://localhost:3000/api-docs
-```
-
----
-
-## 🧱 Project Structure
-- `/src/gateway/` – Express API endpoints
-- `/src/protocols/` – ActivityPub, Nostr, AT Protocol modules
-- `/src/utils/` – Helper functions
-- `/scripts/` – Dev tools and sync scripts
-- `/docs/` – Developer documentation
+Visit `http://localhost:3000` to view the running instance.
 
 ---
 
-## ✅ Next Steps
-- Read the [Tech Stack](tech-stack.md)
-- Understand the [API Gateway](api-gateway.md)
-- Submit ideas via [Proposals](../proposals/submit.md)
-- Join the community via [Revolt](https://rvlt.gg/vxTxbvth)
+## 🛠 Configuration
+
+Edit the `.env` file to configure:
+- Your domain name
+- Enabled protocols (ActivityPub, ATProto, Nostr...)
+- Matrix server options
+- Lightning settings (BTCPay or LNbits)
+- Storage method (IPFS, Arweave, local DB)
+
+See the [`.env Reference Guide`](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/wiki/.env-Reference).
 
 ---
 
-> Made with 💜 by the Circuitry Hub Insights Collective
+## 🌐 Custom Domains & HTTPS
 
+To use your own domain:
+1. Point your domain’s A/CNAME records to your server IP.
+2. Update the `DOMAIN=` variable in `.env`
+3. Use a reverse proxy (e.g., NGINX with Let's Encrypt) for HTTPS
+
+---
+
+## 🧪 Test Protocol Federation
+
+Once installed:
+- Try posting and viewing from Nostr or Mastodon
+- DM users via Matrix
+- Use your `@username@domain` identity to test Webfinger + DIDs
+- Tip a post via Lightning
+
+---
+
+## 🧱 Extend with Plugins
+
+You can enable or build plugins for:
+- Secure Scuttlebutt
+- RSS syndication
+- Moderation tools
+- Custom protocol bridges
+
+More on [Plugins & Extensibility](../#plugins--extensibility)
+
+---
+
+## 🤝 Need Help?
+- Join our [Revolt Server](https://rvlt.gg/xFyQycWs)
+- Open an [issue on GitHub](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/issues)
+
+---
+
+Built for freedom. Forked for sovereignty. 🌱
