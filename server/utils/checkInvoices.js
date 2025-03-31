@@ -1,1 +1,0 @@
-// Utility to check unpaid Lightning invoices periodically
