@@ -1,0 +1,7 @@
+
+services:
+  - type: web
+    name: omnisocial-api
+    env: node
+    buildCommand: "npm install"
+    startCommand: "node api/activitypub/routes.js"
