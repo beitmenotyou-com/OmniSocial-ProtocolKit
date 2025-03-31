@@ -1,0 +1,1 @@
+// Placeholder for OpenPGP.js client encryption integration
