@@ -1,9 +1,0 @@
-
-[build]
-  publish = "client/pages"
-  command = "echo 'Netlify Build Complete'"
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
