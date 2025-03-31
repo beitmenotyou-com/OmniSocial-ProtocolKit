@@ -1,103 +1,187 @@
-# 🌐 OmniSocial ProtocolKit
+# 🌐 OmniSocial ProtocolKit – Unified Edition
 
-**OmniSocial ProtocolKit** is a self-hostable, modular starter kit for building **federated**, **multi-protocol** social media backends that prioritize **freedom**, **sovereignty**, and **interoperability**. It integrates key decentralized protocols such as:
+**OmniSocial ProtocolKit** is a self-hostable, modular, multi-protocol social backend for the next generation of decentralized communication.
 
-- ActivityPub (used by Mastodon, PeerTube, etc.)
-- Nostr (event-based protocol for censorship resistance)
-- AT Protocol (used by Bluesky)
-- WebFinger and DID (for decentralized identity resolution)
-- Lightning Network (for censorship-resistant micropayments)
+It bridges ActivityPub, Nostr, AT Protocol, Matrix, IndieWeb, RSS, and more — wrapped in a unified identity and publishing layer that puts **freedom**, **sovereignty**, and **interoperability** at the core.
 
-Built for developers, activists, and communities that believe in free expression and decentralized infrastructure.
+---
 
-## 🚀 Features
+## 🚀 Core Features
 
-- ✅ Federated backend supporting multiple social protocols
-- ⚡ Pay-to-post, pay-to-comment, pay-to-DM with Lightning Network
-- 🧩 Modular architecture with plug-and-play protocol plugins
-- 🆔 DID, WebFinger, and Nostr key identity linking
-- 🌍 ActivityPub, AT Protocol, and Nostr cross-posting bridge
-- 🛡️ Spam protection and moderation tools
-- 📊 Analytics, logging, and webhook support
-- 🧱 Self-custodial + extensible by design
+- ✅ **Cross-protocol publishing** (AP, AT, Nostr, Matrix, IndieWeb, RSS)
+- 🧠 **BridgeID**: unified identity with DID/Webfinger/Nostr/Matrix linking
+- 🧩 **Plugin-based architecture** for every protocol + feature
+- 🔐 **Verifiable Credentials (VCs)** support for trust and gating
+- 📦 **Decentralized storage** via IPFS, Arweave, and Solid Pods
+- ⚡ **Lightning Network microtransactions** (pay-to-post/comment/DM/view)
+- 🔁 **Unified timeline** across all networks
+- 🛡️ **Spam protection + encrypted messaging** (via Matrix + BridgeID)
+- 📤 **Webmention + RSS bridge** for IndieWeb publishing
+- 🧱 Fully modular, extensible, and API-driven
+
+---
 
 ## 🧠 Philosophy
 
-OmniSocial ProtocolKit empowers people to **build sovereign social networks** that can interoperate across decentralized protocols — while remaining free from platform lock-in, surveillance, and censorship.
+OmniSocial ProtocolKit is infrastructure for **sovereign social networks** — where users own their identity, data, and social connections.
 
-We’re building the **infrastructure for freedom tech** and protocol-first communication — not another walled garden.
+No walled gardens. No centralized gatekeepers. Just protocols, people, and freedom.
 
-## 📦 Project Structure
+---
 
-/server                  # Core backend (API routes, protocol adapters, LN logic)
-/client                  # React components for payments, identity, etc.
-/protocolKit             # Plugin-based multi-protocol starter system
-.github/workflows        # CI for invoice monitoring
-install.sh               # One-command local install script
-Dockerfile               # Docker container for the backend
-docker-compose.yml       # Local orchestration
+## 🗂️ Project Structure
+
+```
+/bridgeid              # Unified identity + credential system (DID, VC, keys)
+/protocols             # Plugin-based federation modules (AP, AT, Nostr, Matrix...)
+/storage               # IPFS, Solid Pod, Arweave, and local storage logic
+/server                # Express API gateway and middleware
+/client                # React components and frontend tools (optional)
+/cli                   # Command-line tools for identity, publishing, federation
+/docs                  # Markdown docs + OpenAPI schemas
+Dockerfile             # Containerized deployment
+.env.example           # Sample environment variables
+```
+
+---
 
 ## 🔌 Protocol Support
 
-| Protocol       | Status       | Module / Plugin       |
-|----------------|--------------|------------------------|
-| ActivityPub    | ✅ Integrated | BridgingPlugin.js      |
-| Nostr          | ✅ Integrated | BridgingPlugin.js      |
-| AT Protocol    | ✅ Integrated | BridgingPlugin.js      |
-| WebFinger/DID  | ✅ Integrated | IdentityPlugin.js      |
-| Lightning      | ✅ Integrated | lightning.js           |
+| Protocol        | Status | Module Path             |
+|-----------------|--------|--------------------------|
+| ActivityPub     | ✅     | `/protocols/activitypub` |
+| AT Protocol      | ✅     | `/protocols/atproto`     |
+| Nostr            | ✅     | `/protocols/nostr`       |
+| Matrix           | ✅     | `/protocols/matrix`      |
+| IndieWeb         | ✅     | `/protocols/indieweb`    |
+| RSS              | ✅     | `/protocols/rss`         |
+| Solid (Storage)  | ✅     | `/protocols/solid`       |
+| IPFS/Arweave     | ✅     | `/protocols/ipfs`, `/arweave` |
+| Webfinger + DID  | ✅     | `/bridgeid/`             |
+| Lightning        | ✅     | `/server/lightning/`     |
 
-## 🧩 Modular Plugins
+---
 
-Each protocol and system feature (identity, logging, moderation, payments, etc.) is modular via the /protocolKit system. Build your own plugin or extend existing ones.
+## 🔐 Identity: BridgeID
+
+- Self-owned identity (DID + domain + Nostr key + Matrix ID)
+- DID formats: `did:web`, `did:key`, `did:plc`
+- Cross-platform discovery via Webfinger
+- Credential storage and verification (W3C VC spec)
+- Unified login and account linking
+
+---
+
+## 🧩 Modular Plugin System
+
+Every protocol integration is a plugin with the same interface:
+- `send.ts` → outbound federation
+- `receive.ts` → inbound content normalization
+- `normalize.ts` → map to internal types
+- Plug into federation bus with zero coupling
+
+You can add support for:
+- New decentralized protocols
+- Alternative storage layers
+- Identity verifiers or credential issuers
+- UI/UX extensions in the React client
+
+---
+
+## ⚡ Monetization + Anti-Spam
+
+- Lightning-powered content control:
+  - ✅ Pay-to-Comment
+  - ✅ Pay-to-DM
+  - ✅ Pay-to-View
+- Nostr zaps (NIP-57) supported via LNURL
+- Configurable free post thresholds + token gating
+- Wallet address stored in BridgeID
+
+---
 
 ## 🛠️ Setup
 
-### 1. Install locally
+### 1. Install
 
-chmod +x install.sh
-./install.sh
+```bash
+pnpm install
+pnpm dev
+```
 
-Then configure your .env:
+Or use Docker:
 
+```bash
+docker-compose up --build -d
+```
+
+### 2. Configure `.env`
+
+```dotenv
 LN_API_BASE=https://your.lnbits.instance
 LN_API_KEY=your_invoice_key
+POD_BASE=https://solid.yourdomain/pod/
+IPFS_NODE=http://localhost:5001
+```
 
-### 2. Docker (optional)
+---
 
-docker-compose up --build -d
+## 🔧 CLI Usage
 
-## 🧪 Usage Examples
+```bash
+# Create and link identity
+pnpm cli:bridgeid create --username alice --domain alice.me
+pnpm cli:bridgeid link --nostr npub... --did did:web:alice.me
 
-- React <CommentPaywall />, <UnlockContent />, <DMPaywall /> components
-- Cross-post from ActivityPub to Nostr in 1 function
-- Moderate spam using the built-in ModerationPlugin
-- Use LNURL or WebLN to collect tips and protect from bots
+# Publish a post across all protocols
+pnpm cli:post new --content "Hello world" --to ap nostr atproto rss
+
+# Follow someone on any network
+pnpm cli:follow add @bob@mastodon.social
+pnpm cli:follow add npub1abc...
+pnpm cli:follow add https://bob.blog/feed.xml
+```
+
+---
+
+## 🧪 Use Cases
+
+- Build your own sovereign federated social network
+- Run a cross-protocol bridge for your community
+- Let creators publish + earn directly via Lightning
+- Use Solid Pods or IPFS to truly own your content
+- Verify contributors using DIDs and credentials
+
+---
 
 ## 📖 Documentation
 
-All modules and integrations are fully documented in the /WIKI_*.md files.
-We recommend reading:
-- WIKI_Lightning_Integration.md
-- WIKI_MultiProtocol_Plugins.md
+📚 [View the full GitHub Wiki →](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/wiki)
 
-Or view the wiki on GitHub → https://github.com/beitmenotyou-com/omnisocial-hub/wiki
+Or check out:
+- `GETTING-STARTED.md`
+- `CHANGELOG.md`
+- `WIKI-REFERENCE.md` (offline bundle)
+
+---
 
 ## 🙌 Contributing
 
-Want to help expand protocol support, build plugins, or improve the Lightning UX?
-
 - Fork the repo
-- Create a branch
+- Create a new branch (`feature/my-plugin`)
+- Add a protocol or plugin under `/protocols/`
 - Submit a pull request!
 
-You can also join our community (Discord/Matrix) via our main Circuitry Hub Insights Collective.
+Join us on Matrix or via the Circuitry Hub Insights Collective.
+
+---
 
 ## 🛡️ License
 
 MIT License
 
-## ✊ Stay Sovereign. Stay Connected.
+---
 
-OmniSocial ProtocolKit is built for the freedom tech generation.
-Run your own server, integrate the protocols you want, and own your digital voice.
+## ✊ Protocols over Platforms.
+
+Own your voice. Federate your ideas. Build the web you want to live in.
