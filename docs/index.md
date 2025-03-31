@@ -14,20 +14,19 @@ OmniSocial ProtocolKit is a modular, self-hostable toolkit for building decentra
 ## 📖 Table of Contents
 
 - [Getting Started](./getting-started)
-- [Core Concepts](#core-concepts)
-- [Installation Guide](#installation-guide)
-- [Architecture Overview](#architecture-overview)
-- [Supported Protocols](#supported-protocols)
-- [Identity Layer](#identity-layer)
-- [Federated Messaging](#federated-messaging)
-- [Monetization with Lightning](#monetization-with-lightning)
-- [Plugins & Extensibility](#plugins--extensibility)
-- [Decentralized Storage](#decentralized-storage)
-- [Unified Feed Engine](#unified-feed-engine)
-- [Governance Model](#governance-model)
-- [Roadmap](#roadmap)
-- [Contribute](#contribute)
-- [FAQ](#faq)
+- [Core Concepts](./core-concepts)
+- [Installation Guide](./installation-guide)
+- [Architecture Overview](./architecture-overview)
+- [Supported Protocols](./supported-protocols)
+- [Identity Layer](./identity-layer)
+- [Federated Messaging](./federated-messaging)
+- [Monetization with Lightning](./monetization-with-lightning)
+- [Plugins & Extensibility](./plugins-extensibility)
+- [Decentralized Storage](./decentralized-storage)
+- [Unified Feed Engine](./unified-feed-engine)
+- [Governance Model](./governance-model)
+- [Contribute](./contribute)
+- [FAQ](./faq)
 
 ---
 
