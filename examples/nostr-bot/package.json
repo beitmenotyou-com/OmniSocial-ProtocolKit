@@ -1,0 +1,11 @@
+{
+  "name": "nostr-bot",
+  "version": "0.1.0",
+  "main": "bot.js",
+  "scripts": {
+    "bot": "node bot.js"
+  },
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
