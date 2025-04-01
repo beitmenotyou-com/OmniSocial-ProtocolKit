@@ -1,1 +1,0 @@
-// Placeholder for governance/rules_template.md
