@@ -1,1 +1,0 @@
-// Placeholder for docs/MODERATION_GUIDE.md

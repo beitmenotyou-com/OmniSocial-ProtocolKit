@@ -1,1 +1,0 @@
-// Placeholder for docs/CODE_OF_CONDUCT.md
