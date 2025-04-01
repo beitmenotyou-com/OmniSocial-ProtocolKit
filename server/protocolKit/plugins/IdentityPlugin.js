@@ -1,0 +1,1 @@
+// Plugin to manage cross-protocol identities
