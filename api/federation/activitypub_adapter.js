@@ -1,0 +1,1 @@
+// Placeholder for federation/activitypub_adapter.js

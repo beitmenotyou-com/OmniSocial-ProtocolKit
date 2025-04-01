@@ -1,0 +1,1 @@
+// Placeholder for federation/matrix_adapter.js
