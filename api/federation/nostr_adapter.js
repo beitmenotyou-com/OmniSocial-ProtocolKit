@@ -1,0 +1,1 @@
+// Placeholder for federation/nostr_adapter.js
