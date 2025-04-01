@@ -1,1 +1,0 @@
-// Placeholder for lightning/tips_dashboard.js

@@ -1,1 +1,0 @@
-// LNbits webhook receiver

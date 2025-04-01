@@ -1,1 +1,0 @@
-// Plugin to moderate content (e.g., banned words)
