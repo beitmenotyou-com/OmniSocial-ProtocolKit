@@ -1,1 +1,0 @@
-// Placeholder for federation/atproto_adapter.js
