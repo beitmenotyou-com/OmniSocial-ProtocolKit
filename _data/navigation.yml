@@ -1,0 +1,11 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Roadmap"
+    url: /roadmap/
+  - title: "Funding"
+    url: /funding/
+  - title: "Get Started"
+    url: /get-started/
+  - title: "GitHub"
+    url: https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit
