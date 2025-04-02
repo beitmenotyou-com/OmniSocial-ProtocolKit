@@ -1,3 +1,29 @@
-theme: jekyll-theme-slate
-title: OmniSocial ProtocolKit Docs
-description: Docs for OmniSocial ProtocolKit
+title: OmniSocial ProtocolKit
+description: A modular, federated social media starter kit.
+baseurl: ""
+url: "https://beitmenotyou-com.github.io/OmniSocial-ProtocolKit"
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-air
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+author:
+  name: BeItMeNotYou
+  bio: "Building the decentralized future."
+  avatar: "/assets/images/avatar.png"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+
+air:
+  enabled: true
